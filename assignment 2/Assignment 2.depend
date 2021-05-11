@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1616500337 source:c:\users\vincent\desktop\ict283_assignment2_seow_wei_cheng_33753618\assignment 2\date.cpp
+	"date.h"
+
+1617866058 c:\users\vincent\desktop\ict283_assignment2_seow_wei_cheng_33753618\assignment 2\date.h
+	<string>
+	<iostream>
+
+1616503057 source:c:\users\vincent\desktop\ict283_assignment2_seow_wei_cheng_33753618\assignment 2\time.cpp
+	"Time.h"
+	<string>
+
+1614167391 c:\users\vincent\desktop\ict283_assignment2_seow_wei_cheng_33753618\assignment 2\time.h
+	<iostream>
+
+1618069074 source:c:\users\vincent\desktop\ict283_assignment2_seow_wei_cheng_33753618\assignment 2\main.cpp
+	"date.h"
+	"Time.h"
+	"menu.h"
+	"Bst.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1616396392 c:\users\vincent\desktop\ict283_assignment2_seow_wei_cheng_33753618\assignment 2\menu.h
+	"Bst.h"
+	"Time.h"
+	"date.h"
+	<string>
+	<map>
+
+1618226796 c:\users\vincent\desktop\ict283_assignment2_seow_wei_cheng_33753618\assignment 2\bst.h
+	<iostream>
+
+1617864155 source:c:\users\vincent\desktop\ict283_assignment2_seow_wei_cheng_33753618\assignment 2\menu.cpp
+	"menu.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+
